@@ -1,0 +1,13 @@
+C:\Users\oavil\source\repos\EX2_Lletres_Repetides\obj\Debug\netcoreapp3.1\EX2_Lletres_Repetides.csprojAssemblyReference.cache
+C:\Users\oavil\source\repos\EX2_Lletres_Repetides\obj\Debug\netcoreapp3.1\EX2_Lletres_Repetides.AssemblyInfoInputs.cache
+C:\Users\oavil\source\repos\EX2_Lletres_Repetides\obj\Debug\netcoreapp3.1\EX2_Lletres_Repetides.AssemblyInfo.cs
+C:\Users\oavil\source\repos\EX2_Lletres_Repetides\obj\Debug\netcoreapp3.1\EX2_Lletres_Repetides.csproj.CoreCompileInputs.cache
+C:\Users\oavil\source\repos\EX2_Lletres_Repetides\bin\Debug\netcoreapp3.1\EX2_Lletres_Repetides.exe
+C:\Users\oavil\source\repos\EX2_Lletres_Repetides\bin\Debug\netcoreapp3.1\EX2_Lletres_Repetides.deps.json
+C:\Users\oavil\source\repos\EX2_Lletres_Repetides\bin\Debug\netcoreapp3.1\EX2_Lletres_Repetides.runtimeconfig.json
+C:\Users\oavil\source\repos\EX2_Lletres_Repetides\bin\Debug\netcoreapp3.1\EX2_Lletres_Repetides.runtimeconfig.dev.json
+C:\Users\oavil\source\repos\EX2_Lletres_Repetides\bin\Debug\netcoreapp3.1\EX2_Lletres_Repetides.dll
+C:\Users\oavil\source\repos\EX2_Lletres_Repetides\bin\Debug\netcoreapp3.1\EX2_Lletres_Repetides.pdb
+C:\Users\oavil\source\repos\EX2_Lletres_Repetides\obj\Debug\netcoreapp3.1\EX2_Lletres_Repetides.dll
+C:\Users\oavil\source\repos\EX2_Lletres_Repetides\obj\Debug\netcoreapp3.1\EX2_Lletres_Repetides.pdb
+C:\Users\oavil\source\repos\EX2_Lletres_Repetides\obj\Debug\netcoreapp3.1\EX2_Lletres_Repetides.genruntimeconfig.cache
